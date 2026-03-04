@@ -1,4 +1,4 @@
-package com.example.unittestpractice.validation;
+package com.example.unittestpractice.exception;
 
 public class OutOfStockException extends RuntimeException {
     public OutOfStockException(String bookId) {
